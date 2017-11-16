@@ -1,0 +1,5 @@
+com\shumanov\bojidar\PropertiesReader\parsers\PropertyLoader.class
+com\shumanov\bojidar\PropertiesReader\interfaces\PropertiesProcessor.class
+com\shumanov\bojidar\PropertiesReader\interfaces\Property.class
+com\shumanov\bojidar\PropertiesReader\annotations\PropertySource.class
+com\shumanov\bojidar\PropertiesReader\annotations\PropertySource$Property.class
